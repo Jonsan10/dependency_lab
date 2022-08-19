@@ -15,6 +15,6 @@ public class Robot {
     }
     //Methods (CAN DO)
     public void Attack(){
-        System.out.println(this.name + "attacks with their" + this.weaponPower);
+        System.out.println(this.name + "attacks with their" + this.weaponPower + "for"+ this.weaponPower + "damage!");
     }
 }
